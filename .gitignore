@@ -1,6 +1,6 @@
 obj
 bin
-appsettings.json
+appsettings.Development.json
 *.db
 *.db-shm
 *.db-wal
